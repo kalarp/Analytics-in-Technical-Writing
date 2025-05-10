@@ -1,15 +1,15 @@
 @import "./color_schemes/light";
 
-$body-background-color: $white;
-$body-heading-color: $black;
-$body-text-color: $black;
-$link-color: $blue-000;
-$nav-child-link-color: $grey-dk-100;
-$sidebar-color: $grey-lt-000;
-$base-button-color: #f7f7f7;
-$btn-primary-color: $purple-100;
-$code-background-color: $grey-lt-000;
-$feedback-color: darken($sidebar-color, 3%);
-$table-background-color: $white;
-$search-background-color: $white;
-$search-result-preview-color: $grey-dk-000;
+$body-background-color: $white !default;
+$body-heading-color: $black !default;
+$body-text-color: $black !default;
+$link-color: $blue-000 !default;
+$nav-child-link-color: $grey-dk-100 !default;
+$sidebar-color: $grey-lt-000 !default;
+$base-button-color: #f7f7f7 !default;
+$btn-primary-color: $purple-100 !default;
+$code-background-color: $grey-lt-000 !default;
+$feedback-color: darken($sidebar-color, 3%) !default;
+$table-background-color: $white !default;
+$search-background-color: $white !default;
+$search-result-preview-color: $grey-dk-000 !default;
