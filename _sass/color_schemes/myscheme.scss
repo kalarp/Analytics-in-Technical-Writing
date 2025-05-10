@@ -1,4 +1,5 @@
-$color-scheme: myscheme;
+@import "./color_schemes/light";
+
 $body-background-color: $white;
 $body-heading-color: $black;
 $body-text-color: $black;
