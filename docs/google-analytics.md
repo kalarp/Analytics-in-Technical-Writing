@@ -89,7 +89,8 @@ After Google Analytics has processed the collected data, it is stored in a datab
       gtag('config', 'G-XXXXXXXXXX');
       </script>
       {% endhighlight %}
-      
+
+{:start="10"}
 10. Test the installation. 
 
 You can now begin gathering information about your website traffic.
