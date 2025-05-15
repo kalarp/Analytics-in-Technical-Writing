@@ -62,10 +62,9 @@ Examples of Hotjar cookies types:
       </script>
       {% endhighlight %}
 
-{:start="6"}
 6. Click **Verify installation** to check if the code has been installed correctly.
 
-      [![hotjarverify](../images/hotjarverify.png "a button")](../images/hotjarverify.png)
+    [![hotjarverify](../images/hotjarverify.png "a button")](../images/hotjarverify.png)
 
 You can now gather information about users' behaviour on your website.
 
