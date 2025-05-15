@@ -61,7 +61,8 @@ Examples of Hotjar cookies types:
       })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
       </script>
       {% endhighlight %}
-   
+
+{:start="6"}
 6. Click **Verify installation** to check if the code has been installed correctly.
 
       [![hotjarverify](../images/hotjarverify.png "a button")](../images/hotjarverify.png)
