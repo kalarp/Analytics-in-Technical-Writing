@@ -45,7 +45,7 @@ Examples of Hotjar cookies types:
 
       [![hotjarsite](../images/hotjarsite.png "a button")](../images/hotjarsite.png)
 
-  > 💡 The initial configuration allows you to add an NPS survey and a feedback button.
+      > 💡 The initial configuration allows you to add an NPS survey and a feedback button.
 
 5. On the welcome page you will find the JavaScript code snippet. Copy and paste it into the ```<head>``` section of every page you wish to track.
     ```JavaScript
