@@ -36,14 +36,14 @@ Examples of Hotjar cookies types:
 
 1. Go to the [**Hotjar**](https://www.hotjar.com/) website and click the **Get started** button.
 
-   [![getstarted](../images/hotjarstart.png "a button with a text which says get started")](../images/hotjarstart.png)
+    [![getstarted](../images/hotjarstart.png "a button with a text which says get started")](../images/hotjarstart.png)
 
     You can sign up with Google or your email address.
 2. Enter details about your organisation and your role.
 3. Answer or skip the personalisation questions.
 4. Enter the URL of your documentation site (you can skip this step and configure it later).
 
-  [![hotjarsite](../images/hotjarsite.png "a button")](../images/hotjarsite.png)
+      [![hotjarsite](../images/hotjarsite.png "a button")](../images/hotjarsite.png)
 
   > 💡 The initial configuration allows you to add an NPS survey and a feedback button.
 
