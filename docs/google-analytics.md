@@ -78,9 +78,8 @@ After Google Analytics has processed the collected data, it is stored in a datab
 6. Read and accept the Privacy Terms.
 7. Choose the data source from which you will be collecting data (you can skip this selection at this stage). This step is necessary to begin tracking. 
 8. Configure a data stream (you must set up at least one data stream to start collecting data: web data stream, iOS app data stream or Android app data stream).
-9. Set up a Google tag by adding the provided code snippet to every page of your website:
-    
-      {% highlight html %}
+9. Set up a Google tag by adding the provided code snippet to every page of your website:   
+      ```javascript
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
       <script>
       window.dataLayer = window.dataLayer || [];
@@ -88,8 +87,7 @@ After Google Analytics has processed the collected data, it is stored in a datab
       gtag('js', new Date());
       gtag('config', 'G-XXXXXXXXXX');
       </script>
-      {% endhighlight %}
-
+      ```
 10. Test the installation. 
 
 You can now begin gathering information about your website traffic.
