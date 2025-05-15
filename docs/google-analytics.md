@@ -3,10 +3,6 @@ title: Google Analytics
 layout: default
 parent: User Engagement
 nav_order: 1
-kramdown:
-  parse_block_html: true
-  auto_ids: true
-  syntax_highlighter: rouge
 ---
 
 # Google Analytics

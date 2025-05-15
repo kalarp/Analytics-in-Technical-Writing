@@ -2,4 +2,17 @@ title: Analytics In Technical Writing
 description: A guide to the use of readability and web analytics tools in technical writing.
 theme: just-the-docs
 scheme: myscheme
-
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  input: GFM
+  hard_wrap: false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  parse_block_html: true  # To może pomóc z listami w blokach HTML
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
