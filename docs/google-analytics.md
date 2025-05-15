@@ -80,15 +80,15 @@ After Google Analytics has processed the collected data, it is stored in a datab
 8. Configure a data stream (you must set up at least one data stream to start collecting data: web data stream, iOS app data stream or Android app data stream).
 9. Set up a Google tag by adding the provided code snippet to every page of your website:   
 
-      ```javascript
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-      <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){ dataLayer.push(arguments); }
-      gtag('js', new Date());
-      gtag('config', 'G-XXXXXXXXXX');
-      </script>
-      ```
+```javascript
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){ dataLayer.push(arguments); }
+gtag('js', new Date());
+gtag('config', 'G-XXXXXXXXXX');
+</script>
+```
 
 10. Test the installation. 
 
