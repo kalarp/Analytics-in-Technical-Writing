@@ -48,18 +48,18 @@ Examples of Hotjar cookies types:
     > 💡 The initial configuration allows you to add an NPS survey and a feedback button.
 
 5. On the welcome page you will find the JavaScript code snippet. Copy and paste it into the ```<head>``` section of every page you wish to track.
-    ```javascript
-    &lt;script&gt;
-    (function(h,o,t,j,a,r){
-    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-    h._hjSettings={hjid:YOUR_HJID, hjsv:YOUR_HJSV};
-    a=o.getElementsByTagName('head')[0];
-    r=o.createElement('script');r.async=1;
-    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-    a.appendChild(r);
-    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-    &lt;/script&gt;
-    ```
+      {% highlight html %}
+      <script>
+      (function(h,o,t,j,a,r){
+      h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+      h._hjSettings={hjid:YOUR_HJID, hjsv:YOUR_HJSV};
+      a=o.getElementsByTagName('head')[0];
+      r=o.createElement('script');r.async=1;
+      r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+      a.appendChild(r);
+      })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+      </script>
+      {% endhighlight %}
 6. Click **Verify installation** to check if the code has been installed correctly.
 
       [![hotjarverify](../images/hotjarverify.png "a button")](../images/hotjarverify.png)
