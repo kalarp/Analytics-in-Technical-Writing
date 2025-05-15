@@ -67,28 +67,28 @@ After Google Analytics has processed the collected data, it is stored in a datab
 1. Go to the [**Google Analytics**](https://analytics.google.com/) website and log in or create a Google Account. 
 2. Click the **Start measuring** button to create a Google Analytics account. 
   
-   [![startmeasuring](../images/googlestart.png "a button with a text which says start measuring")](../images/googlestart.png)
+      [![startmeasuring](../images/googlestart.png "a button with a text which says start measuring")](../images/googlestart.png)
 
 3. Create a property. A property represents a website or an app you wish to track.
 4. Enter your business details, such as industry category and business size.
 5. Select your business objectives from the options provided. For technical documentation purposes, the most relevant options are: 
 
-  [![businessobjectives](../images/googleobj.png "two selection buttons, both marked as selected. First one says: understand web and/or app traffic; measure your website or app visitors and the channels that drive their visits. Second one says: View user engagement and retention: learn how people explore the products or services on your website or app.")](../images/googleobj.png)
+      [![businessobjectives](../images/googleobj.png "two selection buttons, both marked as selected. First one says: understand web and/or app traffic; measure your website or app visitors and the channels that drive their visits. Second one says: View user engagement and retention: learn how people explore the products or services on your website or app.")](../images/googleobj.png)
 
 6. Read and accept the Privacy Terms.
 7. Choose the data source from which you will be collecting data (you can skip this selection at this stage). This step is necessary to begin tracking. 
 8. Configure a data stream (you must set up at least one data stream to start collecting data: web data stream, iOS app data stream or Android app data stream).
 9. Set up a Google tag by adding the provided code snippet to every page of your website:
 
-```JavaScript
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){ dataLayer.push(arguments); }
-  gtag('js', new Date());
-  gtag('config', 'G-XXXXXXXXXX');
-</script>
-``` 
+      ```JavaScript
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX');
+      </script>
+      ``` 
 10. Test the installation. 
 
 You can now begin gathering information about your website traffic.
