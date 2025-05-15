@@ -49,7 +49,7 @@ Examples of Hotjar cookies types:
 
 5. On the welcome page you will find the JavaScript code snippet. Copy and paste it into the ```<head>``` section of every page you wish to track.
   
-      {% highlight html %}
+      ```javascript
       <script>
       (function(h,o,t,j,a,r){
       h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -60,7 +60,7 @@ Examples of Hotjar cookies types:
       a.appendChild(r);
       })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
       </script>
-      {% endhighlight %}
+      ```
 
 6. Click **Verify installation** to check if the code has been installed correctly.
 
