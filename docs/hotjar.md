@@ -36,14 +36,14 @@ Examples of Hotjar cookies types:
 
 1. Go to the [**Hotjar**](https://www.hotjar.com/) website and click the **Get started** button.
 
-    [![getstarted](../images/hotjarstart.png "a button with a text which says get started")](../images/hotjarstart.png)
+    [![getstarted](../images/hotjarstart.png "A rectangular button with a purple border and the text Get started in purple font at the center.")](../images/hotjarstart.png)
 
     You can sign up with Google or your email address.
 2. Enter details about your organisation and your role.
 3. Answer or skip the personalisation questions.
 4. Enter the URL of your documentation site (you can skip this step and configure it later).
 
-      [![hotjarsite](../images/hotjarsite.png "a button")](../images/hotjarsite.png)
+      [![hotjarsite](../images/hotjarsite.png "A webpage prompts the user to enter a valid URL or IP address, with https://www.coldplate.com entered in the field. Two buttons below read Do it later (purple) and Next (greyed out).")](../images/hotjarsite.png)
 
     > 💡 The initial configuration allows you to add an NPS survey and a feedback button.
 
@@ -64,7 +64,7 @@ Examples of Hotjar cookies types:
 
 6. Click **Verify installation** to check if the code has been installed correctly.
 
-    [![hotjarverify](../images/hotjarverify.png "a button")](../images/hotjarverify.png)
+    [![hotjarverify](../images/hotjarverify.png "A rectangular button with the text Verify installation in bold purple letters and a purple border on a light background.")](../images/hotjarverify.png)
 
 You can now gather information about users' behaviour on your website.
 
@@ -82,7 +82,7 @@ One of Hotjar’s most valuable features is session recordings, which offer sign
 
 Heatmaps also provide valuable insights. They highlight interactive areas and potential issues with non-interactive elements, track mouse movements to reveal areas of interest or hesitation, and show how far users scroll down a page, which can help prioritise content placement:
 
-[![hotjarengage](../images/hotjarengage.png "a screen showing")](../images/hotjarengage.png)
+[![hotjarengage](../images/hotjarengage.png "A heatmap of a documentation webpage displays areas with the most user clicks in red and lesser clicks in orange and yellow. The page shows a FAQ section, navigation bar, and sidebar with heatmap controls.")](../images/hotjarengage.png)
 
 ### User Feedback
 
@@ -94,7 +94,7 @@ Hotjar’s user feedback feature allows you to gather opinions directly from you
 
 Comments will appear in the dashboard under the survey section.
 
-[![hotjarfeedback2](../images/hotjarfeedback2.png)](../images/hotjarfeedback2.png)
+[![hotjarfeedback2](../images/hotjarfeedback2.png "Screenshot of a website page displaying its layout and content for user navigation and information.")](../images/hotjarfeedback2.png)
 
 ## Privacy
 

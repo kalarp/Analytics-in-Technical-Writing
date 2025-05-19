@@ -22,16 +22,16 @@ The free version offers limited functionality, allowing you to familiarise yours
 1. Go to the [**Readable**](https://app.readable.com/account/login/) website.
 2. Click on **Sign Up Today** to create an account. 
    
-   [![readablesignup](../images/readablesignin.png "sign UP button for creating an account")](../images/readablesignin.png)
+   [![readablesignup](../images/readablesignin.png "A bright pink rectangular button with white text that says Sign Up Today.")](../images/readablesignin.png)
    
    This will provide a free 7-day trial of the features.
 3. Once logged in, type or paste the text you wish to analyse. The editor highlights problematic sentences. Hover your cursor over a sentence to see suggested improvements. You can also view a summary for each paragraph by hovering over the numbers on the dots.
    
-   [![readableeditor2](../images/readableeditor2.png "readable editor with highlihted sentences and suggestion for improvements")](../images/readableeditor2.png)
+   [![readableeditor2](../images/readableeditor2.png "A screenshot of Readables text analysis tool. Highlighted areas show a long sentence warning, selected text in yellow, and readability scores with stats on the right, including grade level and reading ease.")](../images/readableeditor2.png)
    
 4. Review the analysis in the **Tabs** on the right. The **Faves** tab shows the default favourite scores. You can mark any score as a favourite by clicking the **Star** next to it.
    
-   [![readableeditor](../images/readableeditor.png "readable editor with analysis results section")](../images/readableeditor.png)
+   [![readableeditor](../images/readableeditor.png "A screenshot of the Readable website analyzing a text sample. The screen displays highlighted text on the left and detailed readability scores, grades, and statistics in a sidebar on the right.")](../images/readableeditor.png)
 
    Select the **Grade A** tab to view readability grades and scores.
 
