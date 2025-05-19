@@ -19,7 +19,7 @@ Among the sites using Google Analytics are major players such as:
 
 ## How Google Analytics Works
 
-[![gaprocess](../images/gaprocess.jpg "Google Analtycis process diagram")](../images/gaprocess.jpg)
+[![gaprocess](../images/gaprocess.jpg "A flowchart with steps: Tracking Code Installation → Data Collection → Data Transmission → Data Processing → Report Generation, all in rectangles connected by arrows.")](../images/gaprocess.jpg)
 
 ### Tracking Code Installation
 
@@ -67,13 +67,13 @@ After Google Analytics has processed the collected data, it is stored in a datab
 1. Go to the [**Google Analytics**](https://analytics.google.com/) website and log in or create a Google Account. 
 2. Click the **Start measuring** button to create a Google Analytics account. 
   
-      [![startmeasuring](../images/googlestart.png "a button with a text which says start measuring")](../images/googlestart.png)
+      [![startmeasuring](../images/googlestart.png "A rectangular blue button with white text in the center that reads Start measuring.")](../images/googlestart.png)
 
 3. Create a property. A property represents a website or an app you wish to track.
 4. Enter your business details, such as industry category and business size.
 5. Select your business objectives from the options provided. For technical documentation purposes, the most relevant options are: 
 
-      [![businessobjectives](../images/googleobj.png "two selection buttons, both marked as selected. First one says: understand web and/or app traffic; measure your website or app visitors and the channels that drive their visits. Second one says: View user engagement and retention: learn how people explore the products or services on your website or app.")](../images/googleobj.png)
+      [![businessobjectives](../images/googleobj.png "Two selection buttons, both marked as selected. Two selection boxes. Both checked. The first one reads 'Understand web and/or app traffic' and includes a tag icon and description. The second one reads 'View user engagement and retention' and includes a cursor icon and description")](../images/googleobj.png)
 
 6. Read and accept the Privacy Terms.
 7. Choose the data source from which you will be collecting data (you can skip this selection at this stage). This step is necessary to begin tracking. 
@@ -100,15 +100,15 @@ Google Analytics presents traffic reports in the form of configurable dashboards
 
 * **Reports Snapshot** - Offers a high-level summary of key metrics, giving you a quick overview of your website’s performance. 
 
-[![googlereport](../images/googlereport.png "google report")](../images/googlereport.png)
+[![googlereport](../images/googlereport.png "A Google Analytics dashboard showing a Reports snapshot with metrics: active users (3), new users (3), engagement time (49s), event count (115). Sidebar highlights Realtime overview and Realtime pages under Reports.")](../images/googlereport.png)
 
 * **Realtime Overview** - Displays live data about your website activity, including the number of active users, their geographic locations, and the pages they are currently viewing. This report shows events and usage data from the present moment up to the last 30 minutes.
 
-[![googlereport](../images/googlerealtimeover.png "google report")](../images/googlerealtimeover.png)
+[![googlereport](../images/googlerealtimeover.png "Google Analytics Realtime Overview dashboard showing active users on site, user locations on a map, traffic sources, page views, and top active pages for SampleAppPro.")](../images/googlerealtimeover.png)
 
 * **Realtime Pages** - Provides detailed, real-time insights into individual pages being viewed by users. It includes metrics such as the active user count and page views over the last 30 minutes, with visualisations like bar graphs and tables to highlight trends in user activity. This feature is particularly useful for monitoring popular content or troubleshooting issues as they arise.
 
-[![googlereport](../images/googlerealtimepages.png "google report")](../images/googlerealtimepages.png)
+[![googlereport](../images/googlerealtimepages.png "Google Analytics Realtime report showing 3 active users, 12 views in the past 30 minutes, and a bar graph of user activity. A table lists top pages with active users for each page.")](../images/googlerealtimepages.png)
 
 For a detailed guide on using and configuring reports in Google Analytics, refer to the official GA4 documentation or the Reports section within your Google Analytics account.
 
