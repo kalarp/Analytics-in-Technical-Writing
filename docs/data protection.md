@@ -33,7 +33,7 @@ With these data sets, it is possible to directly or indirectly identify an indiv
 
 ## Key Points to Consider for GDPR Compliance
 
-### Data Storage and Data Processing: 
+### Data Storage and Data Processing
    
  * Identify the types of personal data collected, the sources, and storage locations (e.g. internal servers, cloud services).
  * Establish data retention rules which clearly indicate for how long the data will be stored.
