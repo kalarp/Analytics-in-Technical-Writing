@@ -17,7 +17,7 @@ Readable is an online tool designed to help you check and improve the quality of
 
 The free version offers limited functionality, allowing you to familiarise yourself with the tool. Upgrading to the Pro version provides access to the full range of features.
 
-## How To Analyse Your Text Using the Hemingway Editor
+## How to Analyse Your Text Using the Hemingway Editor
 
 1. Go to the [**Readable**](https://app.readable.com/account/login/) website.
 2. Click on **Sign Up Today** to create an account. 
