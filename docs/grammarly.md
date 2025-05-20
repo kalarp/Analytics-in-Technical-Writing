@@ -29,7 +29,7 @@ Advanced features in the paid version include:
 *  Integrating with popular applications such as Microsoft Word and Google Docs.
 *  Supporting collaborative teams with custom style guides, tone settings, and performance tracking.
 
-## How To Analyse Your Text Using Grammarly
+## How to Analyse Your Text Using Grammarly
 
 1. Go to the [**Grammarly**](https://app.grammarly.com/) website.
 2. Click the **Sign up** button to create a free account. 

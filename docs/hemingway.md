@@ -27,7 +27,7 @@ You can upgrade the free version to the paid Hemingway Editor Plus. It offers ad
 * Synonym suggestions to enrich your writing. 
 * Tone and style adjustments to suit different audiences.
 
-## How To Analyse Your Text Using the Hemingway Editor
+## How to Analyse Your Text Using the Hemingway Editor
 
 1. Go to the [**Hemingway Editor**](https://hemingwayapp.com/) website.
 2. On your first visit, you will see a sample welcome text demonstrating the main features in action. You can remove the example and insert or write your own text.
@@ -50,6 +50,6 @@ You can upgrade the free version to the paid Hemingway Editor Plus. It offers ad
 
    [![hemingwayweak](../images/hemingwayweak.png "A screenshot of a feedback panel showing writing statistics: 2 weakeners; 0 adverbs with “Well done”; 1 use of passive voice with “Nice work”; 1 qualifier example given as I think or maybe.")](../images/hemingwayweak.png)
 
-1. Review the suggestions and decide whether to rewrite your text or leave it as it is.
+5. Review the suggestions and decide whether to rewrite your text or leave it as it is.
 
 For more information about the Hemingway Editor’s features, visit: [Get Started With Hemingway Editor Plus](https://hemingwayapp.com/help).

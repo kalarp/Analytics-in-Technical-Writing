@@ -11,7 +11,7 @@ If you need a straightforward AI-powered translator and writing assistant, DeepL
 
 For the purpose of this project, we will focus solely on the DeepL writing assistant.
 
-## How To Check Your Text Using DeepL
+## How to Check Your Text Using DeepL
 
 1. Go to the [**DeepL Write**](https://www.deepl.com/en/write) assisstant website.
 2. You can select the source language from the language selection list, although DeepL will automatically recognise the language if it is supported.
