@@ -1,5 +1,5 @@
 ---
-title: Readability 
+title: Readability and Content Quality
 layout: default
 nav_order: 2
 has_children: true
