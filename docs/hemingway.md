@@ -1,7 +1,7 @@
 ---
 title: Hemingway Editor
 layout: default
-parent: Readability
+parent: Readability and Content Quality
 nav_order: 2
 ---
 
