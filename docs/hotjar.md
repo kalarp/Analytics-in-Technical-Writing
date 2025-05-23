@@ -94,7 +94,7 @@ Hotjar’s user feedback feature allows you to gather opinions directly from you
 
 Comments will appear in the dashboard under the survey section.
 
-[![hotjarfeedback2](../images/hotjarfeedback2.png "Screenshot of a website page displaying its layout and content for user navigation and information.")](../images/hotjarfeedback2.png)
+[![hotjarfeedback2](../images/hotjarfeedback2.png "A screenshot of a website page displaying its layout and content for user navigation and information.")](../images/hotjarfeedback2.png)
 
 ## Privacy
 

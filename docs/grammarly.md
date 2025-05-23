@@ -34,7 +34,7 @@ Advanced features in the paid version include:
 1. Go to the [**Grammarly**](https://app.grammarly.com/) website.
 2. Click the **Sign up** button to create a free account. 
  
-   [![grammarlysignup](../images/grammarlysignup.png "An interface showing the option to sign up for a Google account for free.")](../images/grammarlysignup.png)
+   [![grammarlysignup](../images/grammarlysignup.png "An interface showing the option to sign up by creating a free account or with an existing Google account.")](../images/grammarlysignup.png)
 
 3. After logging in, click **New** to open a new document.
    
