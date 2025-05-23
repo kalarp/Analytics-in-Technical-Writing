@@ -6,19 +6,19 @@ nav_order: 4
 
 # Data Protection 
 
-On 25 May 2018, the General Data Protection Regulation (GDPR) became applicable in the European Union. The European Commission proposed the new law, and the European Parliament and the Council of the European Union jointly adopted it two years earlier, on 14 April 2016. The new regulation replaced the 1995 Data Protection Directive. The main aim was to harmonise data protection laws across all EU member states, protect European citizens, and give them more control over their personal data, especially in the digital age.
+On 25 May 2018, the General Data Protection Regulation (GDPR) became applicable in the European Union. The European Commission proposed the new law, and the European Parliament and the Council of the European Union jointly adopted it two years earlier, on 14 April 2016. The new regulation replaced the 1995 Data Protection Directive. Its main objective was to harmonise data protection laws across all EU member states, protect European citizens, and give them more control over their personal data, especially in the digital age.
 
 GDPR has changed the way both private and public organisations handle data by introducing a set of strict rules and guidelines for the collection, processing and retention of personal data. Organisations are required to consider privacy when designing new systems and processes, document data processing activities and be able to demonstrate that all data is processed lawfully and transparently. Non-compliance can result in significant penalties. For serious breaches, the fine can be up to €20 million or 4% of annual global turnover. These violations include unlawful data processing, lack of a lawful basis for data transfers, or violations of data subjects' rights. 
 
 The penalties are real and rigorously enforced. Total GDPR fines reached approximately €5.88 billion by January 2025. The record penalty to date is €1.2 billion, imposed on Meta in 2023 for inadequate security measures when transferring data of European users to the United States.
 
-TThis highlights the critical importance of GDPR compliance for any organisation that processes personal data, regardless of its location.
+This highlights the critical importance of GDPR compliance for any organisation that processes personal data, regardless of its location.
 
 ## Data Protection in Web Analytics
 
-Under the GDPR, *personal data* refers to information that allows you to identify a specific person. For example, a first name and surname, although associated with personal information, usually will not be sufficient on their own. However, if you add details such as an address or workplace, you may have sufficient information to identify an individual.
+Under the GDPR, *personal data* refers to information that allows you to identify a specific person. For example, a first name and a surname, although associated with personal information, usually will not be sufficient on their own. However, if you add details such as an address or a workplace, you may have sufficient information to identify an individual.
 
->‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+>*personal data* means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
 
 Web analytics tools collect a range of personal data as defined by the GDPR:
 
@@ -45,7 +45,7 @@ With these data sets, it is possible to directly or indirectly identify an indiv
   
   >the data subject has given consent to the processing of his or her personal data for one or more specific purposes;
 
-* This means you can only track users after they have given valid consent. Use a cookie consent banner that clearly explains data collection purposes (e.g. analytics, heatmaps) and allows users to opt in or out of each category separately.
+* You can only track users after they have given valid consent. Use a cookie consent banner that clearly explains data collection purposes (e.g. analytics, heatmaps) and allows users to opt in or out of each category separately.
 
 ### Privacy Policy
 

@@ -13,7 +13,7 @@ For the purpose of this project, we will focus solely on the DeepL writing assis
 
 ## How to Check Your Text Using DeepL
 
-1. Go to the [**DeepL Write**](https://www.deepl.com/en/write) assisstant website.
+1. Go to the [**DeepL Write**](https://www.deepl.com/en/write) assistant website.
 2. You can select the source language from the language selection list, although DeepL will automatically recognise the language if it is supported.
    
    [![deepllang](../images/deepllang.png "A dropdown menu labeled Select language displays options including English (American), English (British) (selected), French, German, Italian, Portuguese, Portuguese (Brazilian), and Spanish.")](../images/deepllang.png)
