@@ -19,7 +19,7 @@ Among the sites using Google Analytics are major players such as:
 
 ## How Google Analytics Works
 
-[![gaprocess](../images/gaprocess.jpg "A flowchart with steps: Tracking Code Installation → Data Collection → Data Transmission → Data Processing → Report Generation, all in rectangles connected by arrows.")](../images/gaprocess.jpg)
+[![gaprocess](../images/gaprocess.jpg "A flowchart with steps: Tracking Code Installation, Data Collection, Data Transmission, Data Processing and Report Generation, all in rectangles connected by arrows.")](../images/gaprocess.jpg)
 
 ### Tracking Code Installation
 
@@ -48,7 +48,7 @@ When someone visits your site for the first time, Google Analytics tracking code
 * **123456789** - A randomly generated number that identifies a user.
 * **1672531200** - The timestamp representing the user's first visit to the website.
 
-The random number (123456789) and the timestamp (1672531200) together form the Google Analytics client ID. Google Analytics uses the client ID to recognise returning users. If a user clears their cookies or switches to a different browser, they'll be recognized as a new visitor.
+The random number (123456789) and the timestamp (1672531200) together form the Google Analytics client ID. Google Analytics uses the client ID to recognise returning users. If a user clears their cookies or switches to a different browser, they'll be recognised as a new visitor.
 
 > 💡 Google Analytics also collects information from other sources, such as browser details and HTTP requests sent by the browser.
 

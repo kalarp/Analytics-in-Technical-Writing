@@ -72,6 +72,8 @@ You can now gather information about users' behaviour on your website.
 
 Hotjar’s default dashboard provides a centralised view of user behaviour. It displays essential metrics such as total sessions, average session duration, bounce rate, top pages, and rage clicks (a series of rapid, multiple clicks that may indicate user frustration). Hotjar’s dashboard is designed as a set of widgets presenting data in charts and graphs. You can easily access heatmaps and recordings of user sessions. The dashboard is customisable, allowing you to reorder and save widget preferences.
 
+[![hotjardashboard](../images/hotjardashboard.png "A Hotjar site overview showing 9 total sessions, an average session duration of 12 minutes and 44 seconds, 8.2 pages per session, and a 44.4% bounce rate. A purple bar chart at the bottom displays the top clicked buttons, links, and top pages.")](../images/hotjardashboard.png)
+
 ### Visual Reports
 
 One of Hotjar’s most valuable features is session recordings, which offer significant advantages for analysing and enhancing information architecture and user experience:
