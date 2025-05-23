@@ -14,11 +14,11 @@ Beyond traditional business functions, data analytics is also a powerful tool fo
 
 In this guide, we will take a closer look at the benefits of analysing key metrics and the tools available for collecting data.
 
-In the **Readability and Content Quality** section, we will focus on improving the clarity and linguistic accuracy of the documentation. You will learn about basic readability metrics, text analysis tools, and the types of insights they can provide.
+In the [Readability and Content Quality](../Analytics-in-Technical-Writing/docs/readability%20and%20content%20quality.md) section, we will focus on improving the clarity and linguistic accuracy of the documentation. You will learn about basic readability metrics, text analysis tools, and the types of insights they can provide.
 
-The section on **User Engagement** delves into web analytics and the popular tools widely used across industries. We will outline the most relevant metrics for technical writers, explain how web analytics tools work, and highlight their most useful features. 
+The section on [User Engagement](../Analytics-in-Technical-Writing/docs/user%20engagement.md) delves into web analytics and the popular tools widely used across industries. We will outline the most relevant metrics for technical writers, explain how web analytics tools work, and highlight their most useful features. 
 
-In the chapter on **Data Protection**, we will address the topic of GDPR compliance. This section highlights the importance of user privacy and data subject rights, and explains the key considerations when implementing web analytics in your organisation.
+In the chapter on [Data Protection](../Analytics-in-Technical-Writing/docs/data%20protection.md), we will address the topic of GDPR compliance. This section highlights the importance of user privacy and data subject rights, and explains the key considerations when implementing web analytics in your organisation.
 
 This guide is primarily intended for technical writers who want to begin collecting data about their online documentation. It contains the most essential information to help you choose the right tools and understand how far you can (and should) go with data analysis.
  
