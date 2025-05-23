@@ -27,11 +27,11 @@ The free version offers limited functionality, allowing you to familiarise yours
    This will provide a free 7-day trial of the features.
 3. Once logged in, type or paste the text you wish to analyse. The editor highlights problematic sentences. Hover your cursor over a sentence to see suggested improvements. You can also view a summary for each paragraph by hovering over the numbers on the dots.
    
-   [![readableeditor2](../images/readableeditor2.png "A screenshot of Readables text analysis tool. Highlighted areas show a long sentence warning, selected text in yellow, and readability scores with stats on the right, including grade level and reading ease.")](../images/readableeditor2.png)
+   [![readableeditor2](../images/readableeditor2.png "A screenshot of Readable's text analysis tool. Highlighted areas show a long sentence warning, selected text in yellow, and readability scores with stats on the right, including grade level and reading ease.")](../images/readableeditor2.png)
    
 4. Review the analysis in the **Tabs** on the right. The **Faves** tab shows the default favourite scores. You can mark any score as a favourite by clicking the **Star** next to it.
    
-   [![readableeditor](../images/readableeditor.png "A screenshot of the Readable website analyzing a text sample. The screen displays highlighted text on the left and detailed readability scores, grades, and statistics in a sidebar on the right.")](../images/readableeditor.png)
+   [![readableeditor](../images/readableeditor.png "A screenshot of the Readable website analysing a text sample. The screen displays highlighted text on the left and detailed readability scores, grades, and statistics in a sidebar on the right.")](../images/readableeditor.png)
 
    Select the **Grade A** tab to view readability grades and scores.
 
