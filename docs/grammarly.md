@@ -38,7 +38,7 @@ Advanced features in the paid version include:
 
 3. After logging in, click **New** to open a new document.
    
-   [![grammarlynew](../images/grammarlynew.png "A sidebar menu with options including Version history, Trash, Account, Apps, and Get Pro; "New" document and "Upload" buttons are shown on the right.")](../images/grammarlynew.png)
+   [![grammarlynew](../images/grammarlynew.png "A sidebar menu with options including Version history, Trash, Account, Apps, and Get Pro; New document and Upload buttons are shown on the right.")](../images/grammarlynew.png)
 
 4. Type or paste the text you wish to check.
    
